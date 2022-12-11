@@ -1,0 +1,15 @@
+go to github page-main prfile
+new repo from safari
+green button clone copy url
+paste url to following commands
+run on terminal 
+cd Week-01-CLI_Source_Control_and_Variables
+pwd
+git clone https://github.com/Heather-Haymond/Assinment1A.git
+git pull --force https://github.com/Heather-Haymond/Assinment1A.git
+vs code to edit fine in repo assignment.text
+save notes into repo folder
+git push --all --https://github.com/Heather-Haymond/Assinment1A.git
+safari add file (next to green code button) upload file 
+select notes txt inside repo folder
+press commit
